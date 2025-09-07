@@ -24,7 +24,7 @@ const Hero = () => {
     MUFA<span className="text-cyan-400">DevX</span>
   </h1>
   <p className="mx-auto mt-4 max-w-2xl text-lg text-gray-400">
-    Powered by AI, designed for humans. Build. Explore. Innovate.
+  Muhammad Fadil – Code. Create. Connect
   </p>
 
   {/* Buttons → pointer-events-auto agar bisa diklik */}
