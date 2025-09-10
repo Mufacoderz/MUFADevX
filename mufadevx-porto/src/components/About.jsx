@@ -7,9 +7,9 @@ const About = () => {
       id="about"
       className="relative min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black py-20 px-6 sm:px-12 flex items-center"
     >
-      {/* Container */}
+      
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
-        {/* Text Content */}
+        
         <div className="text-left space-y-6">
           <h2 className="text-4xl sm:text-5xl font-extrabold text-cyan-400">
             About Me
@@ -36,7 +36,7 @@ const About = () => {
           </div>
         </div>
 
-        {/* Image Content */}
+        
         <div className="flex justify-center md:justify-end">
           <div className="relative group w-[300px] h-[400px] sm:w-[350px] sm:h-[450px] rounded-2xl overflow-hidden shadow-2xl">
             <img
@@ -44,7 +44,7 @@ const About = () => {
               alt="Muhammad Fadil"
               className="w-full h-full object-cover transform group-hover:scale-110 transition duration-500"
             />
-            {/* Overlay Gradient */}
+         
             <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent"></div>
             <h3 className="absolute bottom-6 left-6 text-2xl font-bold text-white">
               Muhammad Fadil
